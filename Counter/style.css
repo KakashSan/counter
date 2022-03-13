@@ -1,0 +1,62 @@
+
+
+body {
+    background-color: #1b1c40;
+}
+
+#container {
+    height: 500px;
+    width: 1005px;
+    border: 10px solid #2a2b5f;
+    margin: 50px auto;
+        background-color: #393c83;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#number {
+    height: 60px;
+    width: 600px;
+    margin: 50px auto;
+    /**margin-bottom: 50px;**/
+    border: #2a2b5f solid 5px;
+    text-align: center;
+    background-color: #2a2b5f;
+    border-radius: 10px;
+    color: white;
+    font-size: 50px;
+}
+
+#plus {
+    height: 60px;
+    width: 600px;
+    margin: 0 0 10px 100px;
+    border: #2a2b5f solid 2px;
+    border-radius: 7px;
+    background-color: #2a2b5f;
+    color: white;
+    font-size: 50px;
+
+    padding-bottom: 25px;
+
+}
+
+#minus {
+    height: 60px;
+    width: 600px;
+    margin: 0 0 0 100px;
+    border: #2a2b5f solid 2px;
+    border-radius: 7px;
+    background-color: #2a2b5f;
+    color: white;
+    font-size: 50px;
+    padding-bottom: 25px;
+}
+
+
+.tlačítka {
+    margin-left: 100Px;
+}
